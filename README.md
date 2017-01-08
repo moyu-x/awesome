@@ -1,29 +1,78 @@
 # 介绍
 
-这是一个我自己日常收集的一个集合，包括软件、工具、书籍和一些电影。
+这是一个我自己日常收集的一个集合，包括软件和书籍。
 
 # 软件
 
-## [Calibre](http://calibre-ebook.com/)
+### [Calibre](http://calibre-ebook.com/)
 
 这是一个图书的管理工具，可以管理PDF、epud、mobi等格式的图书，并且还可以根据自己的需修改文档管理的结构。
 
-## [VMware Workstation](http://www.vmware.com/products/workstation.html)
+### [VMware Workstation](http://www.vmware.com/products/workstation.html)
 
 为什么不推荐VirtualBox呢？其实VirtualBox也是一个挺好的虚拟机平台，但是在图形界面下还是有点不如VMware，所有推荐这个软件作为虚拟机的工具。
 
-## [Typora](http://www.typora.io/)
+### [Typora](http://www.typora.io/)
 
 一个免费的编写Markdown的工具，功能十分的强大，相比Mac上有许多的Markdown的编写工具，在Windows上这样的工具就少了许多，以前都是使用Sublime加上插件来写的，但是自从发现这个软件之后就一直使用这个软件来进行编写Markdown了，并用其来编写日常的笔记。
 
-## [SourceTree](https://www.sourcetreeapp.com/)
+### [SourceTree](https://www.sourcetreeapp.com/)
 
 一个免费的图形化的Git客户端，当然也可以使用Github Desktop来进行管理，但是其显得比较笨重，而Git自带的Git GUI有显得比较鸡肋，所以我推荐这个作为日常的Git的管理工具。
 
-## [Jetbrains](https://www.jetbrains.com/)
+### [Jetbrains](https://www.jetbrains.com/)
 
 这是我推荐的一个编程工具全家桶，包括idea，webstrom还有就是pycharm都是十分好用的IDE。
 
-## [VScode](https://code.visualstudio.com/)
+### [VScode](https://code.visualstudio.com/)
 
 现在有许多的编辑器，例如Sublime，Atom，Notepad++等，以上这几个我都用过，但是我发现VScode中个功能已经适合我的绝大部分时候的使用，最小的配置，最优的使用。当然在Linux上我还是推荐使用Vim或者是Emacs这两个工具，在Mac上推荐使用TextMate。
+
+### [VIM](http://www.vim.org/)
+
+一代上古神器，虽然现在大量使用IDE进行编程，但是在linux终端中还是得用到这个软件，真的算的上一个神器。如果加上各种插件，有些时候连一些所谓很牛的IDE也比不了。另一个神器是Emacs，主要是我不会用，不做太多评价。
+
+### DISM++
+
+一个Windows上的管理软件和清洁软件，相当不错的一个东西。
+
+# 书籍
+
+### Java编程思想
+
+虽然现在大部分的时候用的是JDK8进行编程，但是这本书中对于JDK的一些理解是相当不错的，建议有一定的基础知识后再进行阅读。
+
+### Java核心技术卷
+
+许多人都推荐过各种各样的Java入门书籍，包括视频。但是个人认为，目前的Java入门书籍还是《Java核心技术卷》比较好，第九版是基于JDK7的，第十版是基于JDK8的，都写的特别好，不过比较厚，看的时候可能有一种畏难情绪。
+
+### Spring实战
+
+关于Spring的中文书籍，我个人是看Spring实战第三版入的这个门，这个是基于Spring 3.0.5的，讲述了Spring中的绝大部分用法，并且简洁简练，但是没有讲述核心原理。第四版正在看中，暂时不做评价。
+
+### Spring入门经典
+
+一本入门Spring比较详细的书籍，基本讲述了绝大部分Spring的核心理念及其用法，并且有相当完备的例子。在中文书籍中，这算是一本比较好的入门书籍了。也是没有讲述核心原理，入门不错。
+
+### 世界是数字的
+
+看名字就知道这是一本科普类型的书籍，文章从硬件、软件和通信三大块讲述了计算机中的基础知识，对于计算机的了解，还是比较有意思的一本书籍。
+
+### 别闹了，费曼先生
+
+一说到诺贝尔奖的获得者，每个人都会认为应该是一个严肃的人吧，但是从这本可以算的上是他的自传的书中，可以发现，一个人有趣的一面。偷盗、打架、开锁等等。
+
+### 数学之美
+
+吴军老师的一本书，这本书更像是一本科普类型的书籍，很久之前读的了。介绍了数学在整个计算机中的应用，因为吴军老师是做搜索的，其介绍的大部分数学知识还是和搜索有关系。
+
+### 浪潮之巅
+
+这本书也是吴军老师写的，写在中国所谓的移动互联网出现之前，其中讲述了许多在计算机界十分闻名的公司是如何诞生的，也有作者对于一些公司消亡的思考，值得一看。一句话就是，泡沫的破碎不是件坏事，其代表着另外一个时代的来领。
+
+### 架构探险
+
+本书描述了一个Smart Framework框架的设计与实现，从中可以学习到许多的各类框架设计和实现的原理，原理是一致的，但是实现是多种多样的。
+
+
+

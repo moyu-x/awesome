@@ -19,6 +19,11 @@
 13. [SumatraPDF](http://www.sumatrapdfreader.org/)
 14. [Rufus](http://rufus.akeo.ie/)
 15. [EasyUEFI](http://rufus.akeo.ie/)
+16. [conemu](https://conemu.github.io/ )
+17. [mobaxterm](https://mobaxterm.mobatek.net)
+18. [bandizip](https://www.bandisoft.com/bandizip/)
+19. [foobar2000](https://www.foobar2000.org/)
+20. [freefilesync](https://www.freefilesync.org/)
 
 # 书籍
 
@@ -56,6 +61,7 @@
 ### Python
 
 1. Python编程从入门到实战
+2. python编程导论
 
 ### 计算机理论
 

@@ -37,6 +37,8 @@
 4. Spring入门经典
 5. 架构探险
 6. Java8函数式编程
+7. Spring boot in action
+8. Java Persistence with MyBatis 3
 
 ### C和C++
 
@@ -62,6 +64,7 @@
 
 1. Python编程从入门到实战
 2. python编程导论
+3. 流利的Python
 
 ### 计算机理论
 

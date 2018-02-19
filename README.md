@@ -1,29 +1,29 @@
 # 介绍
 
-这里是一个我推荐的软件，学习资料的一个列表，当然这个列表是我认为比较好的内容，可能有不完善的地方。主要分为软件、书单、纪录片和公开课四大类。
+这里是我收集和推荐的一个资料列表，对于其中的软件，我认为是我使用中比较好用的软件。对于书、电影和记录片以及公开课之类的，是我看过之后认为好的才推荐的，当然算法的除外，我正计划将其看完。对于我看过的书，我在[LearnNote](https://github.com/wjpworking/LearnNote)这个仓库中有我的图书笔记，希望能给各位带来帮助。
 
 # 软件
 
-1. [Calibre](http://calibre-ebook.com/)
-2. [VMware Workstation](http://www.vmware.com/products/workstation.html)
-3. [Typora](http://www.typora.io/)
-4. [SourceTree](https://www.sourcetreeapp.com/)
-5. [Jetbrains](https://www.jetbrains.com/)
-6. [VScode](https://code.visualstudio.com/)
-7. [Sublime](https://www.sublimetext.com/)
-8. [VIM](http://www.vim.org/)
-9. [印象笔记（Envernote）](https://www.yinxiang.com/)
-10. [DISM++](https://www.chuyu.me/zh-Hans/index.html)
-21. [SmartGit](http://www.syntevo.com/smartgit/)
-12. [uGet](http://ugetdm.com/)
-13. [SumatraPDF](http://www.sumatrapdfreader.org/)
-14. [Rufus](http://rufus.akeo.ie/)
-15. [EasyUEFI](http://rufus.akeo.ie/)
-16. [conemu](https://conemu.github.io/ )
-17. [mobaxterm](https://mobaxterm.mobatek.net)
-18. [bandizip](https://www.bandisoft.com/bandizip/)
-19. [foobar2000](https://www.foobar2000.org/)
-20. [freefilesync](https://www.freefilesync.org/)
+1. [Calibre](http://calibre-ebook.com/)——书籍管理
+2. [VMware Workstation](http://www.vmware.com/products/workstation.html):dollar:——虚拟机
+3. [Typora](http://www.typora.io/)——Markdown编写
+4. [SourceTree](https://www.sourcetreeapp.com/)——Git的图形客户端
+5. [Jetbrains](https://www.jetbrains.com/):dollar:——IDE集合
+6. [VScode](https://code.visualstudio.com/)——微软的代码编辑器
+7. [Sublime](https://www.sublimetext.com/)——代码编辑器，我VScode替代了它
+8. [VIM](http://www.vim.org/)——代码编辑器，在Linux环境中使用，我的配置[vimrc](https://github.com/wjpworking/vimrc)
+9. [印象笔记（Envernote）](https://www.yinxiang.com/)——笔记软件
+10. [DISM++](https://www.chuyu.me/zh-Hans/index.html)——Windos上的自定义软件
+11. [SmartGit](http://www.syntevo.com/smartgit/):dollar:——一款跨平台的Git客户端，偶尔在Linuix上使用
+12. [aria2c](https://aria2.github.io/)——下载软件
+13. [SumatraPDF](http://www.sumatrapdfreader.org/)——PDF阅读器
+14. [Rufus](http://rufus.akeo.ie/)——USB启动盘制作
+15. [EasyUEFI](http://rufus.akeo.ie/)——UEFI配置
+16. [conemu](https://conemu.github.io/ )——windows上是shell模拟
+17. [mobaxterm](https://mobaxterm.mobatek.net)——一个shell模拟
+18. [bandizip](https://www.bandisoft.com/bandizip/)——压缩软件
+19. [foobar2000](https://www.foobar2000.org/)——音乐播放器
+20. [freefilesync](https://www.freefilesync.org/)——同步软件
 
 # 书籍
 
@@ -65,6 +65,10 @@
 1. Python编程从入门到实战
 2. python编程导论
 3. 流利的Python
+
+### Linux
+
+1. 鸟哥的Linux私房菜
 
 ### 计算机理论
 
@@ -113,4 +117,5 @@
 
 1. CS50（斯坦福）
 2. 算法（普林斯顿）
-2. CS 6.001（麻省理工）
+3. CS 6.001（麻省理工）
+4. 公正（哈佛）

@@ -31,6 +31,7 @@
 23. [Go2Shell](http://zipzapmac.com/Go2Shell)——当前文件夹开启Shell模拟器
 24. [Insommia](https://insomnia.rest/)——漂亮的`REST`测试客户端
 25. [AnyDesk](https://anydesk.com/)——远程连接工具
+26. [Itern2](https://www.iterm2.com/)——Mac上的模拟器
 
 ## 书籍
 
@@ -39,12 +40,19 @@
 #### Java
 
 1. Java编程思想
+
 2. Java核心技术卷
+
 3. Spring实战
+
 4. Spring入门经典
+
 5. 架构探险
+
 6. Java8函数式编程
+
 7. Java Persistence with MyBatis 3
+
 8. Java编程逻辑
 
    > 后半部分的多线程和反射方面讲浅尝辄止的
@@ -60,7 +68,7 @@
 
 1. Python编程从入门到实战
 
-2. python编程导论
+2. Python编程导论
 
    > 建议配合麻省理工学院的CS6.001课程一起看
 
@@ -118,12 +126,15 @@
 
 ### 小说
 
-1. 豆瓣：流行的秘密
-2. 从0到1
-3. 失乐园
-4. 相约星期二
-5. 通往内心心灵安静之路
-6. 安妮宝贝
+1. 从0到1
+2. 失乐园
+3. 相约星期二
+4. 安妮宝贝
+5. 硅谷革命
+6. 万万没想到:用理工科思维理解世界
+7. 失乐园
+8. 中国哲学简史
+9. 苏菲的世界
 
 ### 传记
 
@@ -157,6 +168,12 @@
 4. 哈佛大学：公正哈佛
 5. 中国科技大学：数学基础选讲（龚昇）
 6. 北京师范大学：从爱因斯坦到霍金的宇宙
+
+### 电影
+
+1. 粒子狂热（Particle Fever）
+
+2. 互联网之子（The Internet's Own Boy: The Story of Aaron Swartz）
 
 ## 网站
 

@@ -7,16 +7,16 @@
 ## 软件
 
 1. [Calibre](http://calibre-ebook.com/)——书籍管理
-2. [VMware Workstation](http://www.vmware.com/products/workstation.html):dollar:——虚拟机
+2. [VMware Workstation](http://www.vmware.com/products/workstation.html)——虚拟机
 3. [Typora](http://www.typora.io/)——Markdown编写
 4. [SourceTree](https://www.sourcetreeapp.com/)——Git的图形客户端
-5. [Jetbrains](https://www.jetbrains.com/):dollar:——IDE集合
+5. [Jetbrains](https://www.jetbrains.com/)——IDE集合
 6. [VScode](https://code.visualstudio.com/)——微软的代码编辑器
 7. [Sublime](https://www.sublimetext.com/)——代码编辑器，我VScode替代了它
 8. [Vim](http://www.vim.org/)——代码编辑器，在Linux环境中使用，我的配置[vimrc](https://github.com/wjpworking/vimrc)
 9. [印象笔记（Envernote）](https://www.yinxiang.com/)——笔记软件
 10. [DISM++](https://www.chuyu.me/zh-Hans/index.html)——Windos上的自定义软件
-11. [SmartGit](http://www.syntevo.com/smartgit/):dollar:——一款跨平台的Git客户端，偶尔在Linuix上使用
+11. [SmartGit](http://www.syntevo.com/smartgit/)——一款跨平台的Git客户端，偶尔在Linuix上使用
 12. [Aria2c](https://aria2.github.io/)——命令行下载工具，支持BT
 13. [SumatraPDF](http://www.sumatrapdfreader.org/)——PDF阅读器
 14. [Rufus](http://rufus.akeo.ie/)——USB启动盘制作
@@ -47,17 +47,22 @@
 7. Java Persistence with MyBatis 3
 8. Java编程逻辑
 
+   > 后半部分的多线程和反射方面讲浅尝辄止的
+
 #### C和C++
 
 1. C程序设计语言
-2. C++ Primer（没看完，但是相当好的一本书）
+2. C++ Primer
+
+   > 没看完，但是相当好的一本书
 
 #### Python
 
 1. Python编程从入门到实战
+
 2. python编程导论
 
-    > 建议配合麻省理工学院的CS6.001课程一起看
+   > 建议配合麻省理工学院的CS6.001课程一起看
 
 3. 流利的Python
 
@@ -66,6 +71,7 @@
 1. 鸟哥的Linux私房菜
 
 #### 其他语言
+
 1. 七周七语言
 2. 全端web开发
 
@@ -73,9 +79,10 @@
 
 1. 算法（第四版）
 
-    > 建议与普林斯顿大学的算法公开课一起看
+   > 建议与普林斯顿大学的算法公开课一起看
 
 2. 数据结构与算法分析
+
 3. 算法导论
 
 #### 数据库
@@ -97,7 +104,7 @@
 
 1. 微积分之倚天剑
 2. 微积分之屠龙刀
-3. 微分五讲
+3. 微分五讲——龚昇
 
 #### 科技其他
 
@@ -128,11 +135,11 @@
 
 1. 算法图解
 
-    > 一本做算法科普比较好的书，如果想细心学习算法就算了
+   > 一本做算法科普比较好的书，如果想细心学习算法就算了
 
 2. Spring boot in action
 
-    > 个人觉得看这本书还不如去看官方文档
+   > 个人觉得看这本书还不如去看官方文档
 
 ## 影视
 
@@ -144,15 +151,15 @@
 
 ### 公开课
 
-1. CS50（斯坦福）
-2. 算法（普林斯顿）
-3. CS 6.001（麻省理工）
-4. 公正（哈佛）
-5. 数学基础选讲（龚升）
+1. 斯坦福大学：CS50
+2. 普林斯顿大学：算法
+3. 麻省理工学院：CS 6.001
+4. 哈佛大学：公正哈佛
+5. 中国科技大学：数学基础选讲（龚昇）
+6. 北京师范大学：从爱因斯坦到霍金的宇宙
 
 ## 网站
 
 ### 技术
 
 1. [Linuxcn](https://linux.cn)
-

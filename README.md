@@ -31,7 +31,7 @@
 23. [Go2Shell](http://zipzapmac.com/Go2Shell)——当前文件夹开启Shell模拟器
 24. [Insommia](https://insomnia.rest/)——漂亮的`REST`测试客户端
 25. [AnyDesk](https://anydesk.com/)——远程连接工具
-26. [Itern2](https://www.iterm2.com/)——Mac上的模拟器
+26. [Iterm2](https://www.iterm2.com/)——Mac上的模拟器
 
 ## 书籍
 
@@ -122,6 +122,7 @@
 7. 失乐园
 8. 中国哲学简史
 9. 苏菲的世界
+10. 万历十五年
 
 ### 传记
 

@@ -2,7 +2,7 @@
 
 ## 介绍
 
-无聊的墨语向你推荐了如下的软件以及书籍，当然也有一些电影以及其他什么的。如果也和我一样无聊的话可以考虑去我的读书笔记的仓库[LearnNote](https://github.com/wjpworking/LearnNote)中查看我的读书笔记，希望能给各位无聊的人带来帮助。
+无聊的墨语向你推荐了如下的软件以及书籍，当然也有一些电影以及其他什么的。如果也和我一样无聊的话可以考虑去我的读书笔记的仓库[note](https://github.com/idwangmo/note)中查看我的读书笔记，希望能给各位无聊的人带来帮助。
 
 ## 软件
 
@@ -12,26 +12,29 @@
 4. [SourceTree](https://www.sourcetreeapp.com/)——Git的图形客户端
 5. [Jetbrains](https://www.jetbrains.com/)——IDE集合
 6. [VScode](https://code.visualstudio.com/)——微软的代码编辑器
-7. [Sublime](https://www.sublimetext.com/)——代码编辑器，我VScode替代了它
-8. [Vim](http://www.vim.org/)——代码编辑器，在Linux环境中使用，我的配置[vimrc](https://github.com/wjpworking/vimrc)
-9. [印象笔记（Envernote）](https://www.yinxiang.com/)——笔记软件
-10. [DISM++](https://www.chuyu.me/zh-Hans/index.html)——Windos上的自定义软件
-11. [SmartGit](http://www.syntevo.com/smartgit/)——一款跨平台的Git客户端，偶尔在Linuix上使用
-12. [Aria2c](https://aria2.github.io/)——命令行下载工具，支持BT
-13. [SumatraPDF](http://www.sumatrapdfreader.org/)——PDF阅读器
-14. [Rufus](http://rufus.akeo.ie/)——USB启动盘制作
-15. [EasyUEFI](http://rufus.akeo.ie/)——UEFI配置
-16. [mobaxterm](https://mobaxterm.mobatek.net)——Windows上的一个shell模拟
-17. [bandizip](https://www.bandisoft.com/bandizip/)——Windows上压缩软件
-18. [Foobar2000](https://www.foobar2000.org/)——音乐播放器
-19. [freefilesync](https://www.freefilesync.org/)——同步软件
-20. [Lepton](https://github.com/hackjutsu/Lepton)——开源代码片段管理
-21. [Appcleaner](http://freemacsoft.net/appcleaner/)——免费的Mac软件卸载软件
-22. [IINA](https://github.com/lhc70000/iina)——Mac上的播放软件
-23. [Go2Shell](http://zipzapmac.com/Go2Shell)——当前文件夹开启Shell模拟器
-24. [Insommia](https://insomnia.rest/)——漂亮的`REST`测试客户端
-25. [AnyDesk](https://anydesk.com/)——远程连接工具
-26. [Iterm2](https://www.iterm2.com/)——Mac上的模拟器
+7. [Vim](http://www.vim.org/)——代码编辑器，在Linux环境中使用，我的配置[vimrc](https://github.com/idwangmo/vimrc)
+8. [Fork](https://git-fork.com/)——简洁漂亮的Git图形化客户端
+9. [DISM++](https://www.chuyu.me/zh-Hans/index.html)——Windos上的自定义软件
+10. [Aria2c](https://aria2.github.io/)——命令行下载工具，支持BT
+11. [SumatraPDF](http://www.sumatrapdfreader.org/)——PDF阅读器
+12. [Rufus](http://rufus.akeo.ie/)——USB启动盘制作
+13. [EasyUEFI](http://rufus.akeo.ie/)——UEFI配置
+14. [mobaxterm](https://mobaxterm.mobatek.net)——Windows上的一个shell模拟
+15. [bandizip](https://www.bandisoft.com/bandizip/)——Windows和Mac上都能使用压缩软件
+16. [Foobar2000](https://www.foobar2000.org/)——音乐播放器
+17. [freefilesync](https://www.freefilesync.org/)——同步软件
+18. [Lepton](https://github.com/hackjutsu/Lepton)——开源代码片段管理，基于Gists
+19. [Appcleaner](http://freemacsoft.net/appcleaner/)——免费的Mac软件卸载软件
+20. [IINA](https://github.com/lhc70000/iina)——Mac上的播放软件
+21. [Go2Shell](http://zipzapmac.com/Go2Shell)——当前文件夹开启Shell模拟器
+22. [Insommia](https://insomnia.rest/)——漂亮的`REST`测试客户端
+23. [AnyDesk](https://anydesk.com/)——远程连接工具
+24. [Iterm2](https://www.iterm2.com/)——Mac上的模拟器
+25. [Draw](https://www.draw.io/)——流程图或UML图设计工具，有全平台客户端
+26. [snipaste](https://www.snipaste.com/)——截图软件
+27. [Rime](https://rime.im/)——输入法，定制程度比较高
+28. [OnyX](https://www.titanium-software.fr/en/onyx.html)——免费的Mac系统维护工具
+29. [CC助手](https://ccyixia.com/)——剪贴板管理工具，简单的碎片化数据收藏夹
 
 ## 书籍
 
@@ -164,4 +167,3 @@
 ### 技术
 
 1. [Linuxcn](https://linux.cn)
-

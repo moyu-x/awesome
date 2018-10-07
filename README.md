@@ -8,7 +8,7 @@
 
 1. [Calibre](http://calibre-ebook.com/)——书籍管理
 2. [VMware Workstation](http://www.vmware.com/products/workstation.html)——虚拟机
-3. [Typora](http://www.typora.io/)——Markdown编写
+3. [Typora](http://www.typora.io/)——漂亮的Markdown编写工具，可惜的是没有管理功能
 4. [SourceTree](https://www.sourcetreeapp.com/)——Git的图形客户端
 5. [Jetbrains](https://www.jetbrains.com/)——IDE集合
 6. [VScode](https://code.visualstudio.com/)——微软的代码编辑器
@@ -23,18 +23,19 @@
 15. [bandizip](https://www.bandisoft.com/bandizip/)——Windows和Mac上都能使用压缩软件
 16. [Foobar2000](https://www.foobar2000.org/)——音乐播放器
 17. [freefilesync](https://www.freefilesync.org/)——同步软件
-18. [Lepton](https://github.com/hackjutsu/Lepton)——开源代码片段管理，基于Gists
+18. [Lepton](https://github.com/hackjutsu/Lepton)——基于Gists开源代码片段管理
 19. [Appcleaner](http://freemacsoft.net/appcleaner/)——免费的Mac软件卸载软件
 20. [IINA](https://github.com/lhc70000/iina)——Mac上的播放软件
 21. [Go2Shell](http://zipzapmac.com/Go2Shell)——当前文件夹开启Shell模拟器
 22. [Insommia](https://insomnia.rest/)——漂亮的`REST`测试客户端
-23. [AnyDesk](https://anydesk.com/)——远程连接工具
+23. [AnyDesk](https://anydesk.com/)——远程连接工具，在内网穿透上没Teamview好
 24. [Iterm2](https://www.iterm2.com/)——Mac上的模拟器
 25. [Draw](https://www.draw.io/)——流程图或UML图设计工具，有全平台客户端
-26. [snipaste](https://www.snipaste.com/)——截图软件
+26. [Snipaste](https://www.snipaste.com/)——截图软件
 27. [Rime](https://rime.im/)——输入法，定制程度比较高
 28. [OnyX](https://www.titanium-software.fr/en/onyx.html)——免费的Mac系统维护工具
 29. [CC助手](https://ccyixia.com/)——剪贴板管理工具，简单的碎片化数据收藏夹
+30. [Vnote](https://github.com/tamlok/vnote)——Markdown编辑器，自带管理功能
 
 ## 书籍
 
@@ -61,7 +62,7 @@
 
 1. Python编程从入门到实战
 2. Python编程导论
-   > 建议配合麻省理工学院的CS6.001课程一起看
+   > 建议配合麻省理工学院的CS6.001课程一起看，适合入门的时候观看
 3. 流利的Python
 
 #### Linux
@@ -139,6 +140,8 @@
    > 一本做算法科普比较好的书，如果想细心学习算法就算了
 2. Spring boot in action
    > 个人觉得看这本书还不如去看官方文档
+3. Cloud Native Python
+    > 没讲多少相关的云原生的知识，大体上的概念也没有讲多少，不过倒是讲了使用Flask构建程序的相关知识，这个感觉还不错
 
 ## 影视
 

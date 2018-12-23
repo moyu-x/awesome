@@ -19,10 +19,10 @@
 11. [SumatraPDF](http://www.sumatrapdfreader.org/)——PDF阅读器
 12. [Rufus](http://rufus.akeo.ie/)——USB启动盘制作
 13. [EasyUEFI](http://rufus.akeo.ie/)——UEFI配置
-14. [mobaxterm](https://mobaxterm.mobatek.net)——Windows上的一个shell模拟
-15. [bandizip](https://www.bandisoft.com/bandizip/)——Windows和Mac上都能使用压缩软件
+14. [Mobaxterm](https://mobaxterm.mobatek.net)——Windows上的一个shell模拟
+15. [Bandizip](https://www.bandisoft.com/bandizip/)——Windows和Mac上都能使用压缩软件
 16. [Foobar2000](https://www.foobar2000.org/)——音乐播放器
-17. [freefilesync](https://www.freefilesync.org/)——同步软件
+17. [Freefilesync](https://www.freefilesync.org/)——同步软件
 18. [Lepton](https://github.com/hackjutsu/Lepton)——基于Gists开源代码片段管理
 19. [Appcleaner](http://freemacsoft.net/appcleaner/)——免费的Mac软件卸载软件
 20. [IINA](https://github.com/lhc70000/iina)——Mac上的播放软件
@@ -34,8 +34,7 @@
 26. [Snipaste](https://www.snipaste.com/)——截图软件
 27. [Rime](https://rime.im/)——输入法，定制程度比较高
 28. [OnyX](https://www.titanium-software.fr/en/onyx.html)——免费的Mac系统维护工具
-29. [CC助手](https://ccyixia.com/)——剪贴板管理工具，简单的碎片化数据收藏夹
-30. [Vnote](https://github.com/tamlok/vnote)——Markdown编辑器，自带管理功能
+29. [Vnote](https://github.com/tamlok/vnote)——Markdown编辑器，自带管理功能
 
 ## 书籍
 
@@ -49,20 +48,18 @@
 4. Spring入门经典
 5. 架构探险
 6. Java8函数式编程
-7. Java编程逻辑
-   > 后半部分的多线程和反射方面讲浅尝辄止的
+7. Java编程逻辑——后半部分的多线程和反射方面讲浅尝辄止的
+8. Spring boot in Action 5th —— 以`Spring boot`为基础写的，讲了最重要的两个部分响应式编程和云原生
 
 #### C和C++
 
 1. C程序设计语言
-2. C++ Primer
-   > 没看完，但是相当好的一本书
+2. C++ Primer——没看完，但是相当好的一本书
 
 #### Python
 
 1. Python编程从入门到实战
-2. Python编程导论
-   > 建议配合麻省理工学院的CS6.001课程一起看，适合入门的时候观看
+2. Python编程导论——建议配合麻省理工学院的`CS6.001`课程一起看，适合入门的时候观看
 3. 流利的Python
 
 #### Linux
@@ -76,10 +73,8 @@
 
 #### 算法
 
-1. 算法（第四版）
-   > 建议与普林斯顿大学的算法公开课一起看
-2. 数据结构与算法分析
-   > 建议看C语言版本的
+1. 算法（第四版）——建议与普林斯顿大学的算法公开课一起看
+2. 数据结构与算法分析——建议看C语言版本的
 3. 算法导论
 
 #### 数据库
@@ -136,12 +131,11 @@
 
 ### 不推荐的书籍
 
-1. 算法图解
-   > 一本做算法科普比较好的书，如果想细心学习算法就算了
-2. Spring boot in action
-   > 个人觉得看这本书还不如去看官方文档
-3. Cloud Native Python
-    > 没讲多少相关的云原生的知识，大体上的概念也没有讲多少，不过倒是讲了使用Flask构建程序的相关知识，这个感觉还不错
+以下的书其实从一方面来说写的不错，但是我主观意识上觉得不太好，后面是我给出的原因：
+
+1. 算法图解 —— 一本做算法科普比较好的书，如果想细心学习算法就算了
+2. Spring boot in action —— 个人觉得看这本书还不如去看官方文档
+3. Cloud Native Python —— 没讲多少相关的云原生的知识，大体上的概念也没有讲多少，不过倒是讲了使用Flask构建程序的相关知识，这个感觉还不错
 
 ## 影视
 
@@ -164,9 +158,3 @@
 
 1. 粒子狂热（Particle Fever）
 2. 互联网之子（The Internet's Own Boy: The Story of Aaron Swartz）
-
-## 网站
-
-### 技术
-
-1. [Linuxcn](https://linux.cn)

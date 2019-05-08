@@ -2,7 +2,7 @@
 
 ## 介绍
 
-无聊的墨语向你推荐了如下的软件以及书籍，当然也有一些电影以及其他什么的。如果也和我一样无聊的话可以考虑去我的读书笔记的仓库[note](https://github.com/idwangmo/note)中查看我的读书笔记，希望能给各位无聊的人带来帮助。
+无聊的墨语向你推荐了如下的软件以及书籍，当然也有一些电影以及其他什么的。如果也和我一样无聊的话可以考虑去我的读书笔记的仓库[note](https://github.com/idwangmo/note)中查看我的读书笔记，希望能给各位带来帮助。
 
 ## 软件
 
@@ -35,6 +35,20 @@
 27. [Rime](https://rime.im/)——输入法，定制程度比较高
 28. [OnyX](https://www.titanium-software.fr/en/onyx.html)——免费的Mac系统维护工具
 29. [Vnote](https://github.com/tamlok/vnote)——Markdown编辑器，自带管理功能
+
+## Chrome 插件
+
+1. Aerys —— 标签管理
+2. crxMouse —— 鼠标手势
+3. EditThisCookie —— 编辑 Cookie
+4. Git History Browser Extension —— Github 的历史浏览
+5. Octoree —— Github 代码树状查看
+6. Video Speed Controller —— 视频播放速度调整
+7. Vimium —— Vim 操作模拟
+8. FeHelper —— Web 前端助手
+9. FireShot —— 捕捉网页截图
+10. 暴力猴 —— 猴油脚本管理工具
+11. 沙拉查词 —— 划词查询工具
 
 ## 书籍
 
@@ -102,6 +116,7 @@
 3. 微分五讲——龚昇
 4. 托马斯微积分
 5. 普林斯顿微积分
+6. 高等微积分 —— 台湾大学齐震宇的微积分公开课
 
 #### 科技其他
 
@@ -158,6 +173,7 @@
 4. 哈佛大学：公正哈佛
 5. 中国科技大学：数学基础选讲（龚昇）
 6. 北京师范大学：从爱因斯坦到霍金的宇宙
+7. 台湾大学(齐震宇): 微积分
 
 ### 电影
 

@@ -1,8 +1,8 @@
-# 墨语的推荐
+# 墨语优选
 
 ## 介绍
 
-无聊的墨语向你推荐了如下的软件以及书籍，当然也有一些电影以及其他什么的。如果也和我一样无聊的话可以考虑去我的读书笔记的仓库[note](https://github.com/idwangmo/note)中查看我的读书笔记，希望能给各位带来帮助。
+这是墨语向你推荐的在工作和生活中能提高效率都软件和工具，当然也有一些电影以及其他什么的。如果需要书籍相关都书籍，可以考虑到我的读书笔记的仓库[note](https://github.com/idwangmo/note)中一游，希望能给各位带来帮助。
 
 ## 软件
 
@@ -30,11 +30,13 @@
 22. [Insommia](https://insomnia.rest/)——漂亮的`REST`测试客户端
 23. [AnyDesk](https://anydesk.com/)——远程连接工具，在内网穿透上没Teamview好
 24. [Iterm2](https://www.iterm2.com/)——Mac上的模拟器
-25. [Draw](https://www.draw.io/)——流程图或UML图设计工具，有全平台客户端
+25. [Draw.IO](https://www.draw.io/)——流程图或UML图设计工具，有全平台客户端
 26. [Snipaste](https://www.snipaste.com/)——截图软件
 27. [Rime](https://rime.im/)——输入法，定制程度比较高
 28. [OnyX](https://www.titanium-software.fr/en/onyx.html)——免费的Mac系统维护工具
 29. [Vnote](https://github.com/tamlok/vnote)——Markdown编辑器，自带管理功能
+30. [Qdir]([http://www.softwareok.com/?Download=Q-Dir](http://www.softwareok.com/?Download=Q-Dir)——Windows 上的多窗口文件管理器
+31. [MarkText](https://github.com/marktext/marktext)—— Markdown 文件编辑工具，和 Typora 有一拼
 
 ## Chrome 插件
 
@@ -63,10 +65,9 @@
 5. 架构探险
 6. Java8函数式编程
 7. Java编程逻辑 —— 后半部分的多线程和反射方面讲浅尝辄止的
-8. Spring boot in Action 5th —— 以`Spring boot`为基础写的，讲了最重要的两个部分响应式编程和云原生
+8. Spring in Action 5th —— 以`Spring boot`为基础写的，讲了最重要的两个部分响应式编程和云原生
 9. Modern Java in Action 2th
-10. Spring in Action 5th
-11. Cloud Native Java
+10. Cloud Native Java
 
 #### C和C++
 

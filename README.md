@@ -180,3 +180,15 @@
 
 1. 粒子狂热（Particle Fever）
 2. 互联网之子（The Internet's Own Boy: The Story of Aaron Swartz）
+
+## 网站
+
+1. [k8s 翻船记录](https://k8s.af/)
+
+2. [codefx Blog](https://blog.codefx.org/)
+
+3. [Dzone](https://dzone.com)
+
+4. [Baeldug](https://www.baeldung.com/)
+
+5. [Spring Blog](https://spring.io/blog)

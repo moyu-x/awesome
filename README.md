@@ -37,6 +37,7 @@
 29. [Vnote](https://github.com/tamlok/vnote)——Markdown编辑器，自带管理功能
 30. [Qdir]([http://www.softwareok.com/?Download=Q-Dir](http://www.softwareok.com/?Download=Q-Dir)——Windows 上的多窗口文件管理器
 31. [MarkText](https://github.com/marktext/marktext)—— Markdown 文件编辑工具，和 Typora 有一拼
+32. [Mounty](https://mounty.app/) —— 在`Mac`上挂载`NTFS`硬盘
 
 ## Chrome 插件
 
@@ -185,11 +186,7 @@
 ## 网站
 
 1. [k8s 翻船记录](https://k8s.af/)
-
 2. [codefx Blog](https://blog.codefx.org/)
-
 3. [Dzone](https://dzone.com)
-
 4. [Baeldug](https://www.baeldung.com/)
-
 5. [Spring Blog](https://spring.io/blog)

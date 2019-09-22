@@ -41,17 +41,24 @@
 
 ## Chrome 插件
 
-1. Aerys —— 标签管理
-2. crxMouse —— 鼠标手势
-3. EditThisCookie —— 编辑 Cookie
-4. Git History Browser Extension —— Github 的历史浏览
-5. Octoree —— Github 代码树状查看
-6. Video Speed Controller —— 视频播放速度调整
-7. Vimium —— Vim 操作模拟
-8. FeHelper —— Web 前端助手
-9. FireShot —— 捕捉网页截图
-10. 暴力猴 —— 猴油脚本管理工具
-11. 沙拉查词 —— 划词查询工具
+1. crxMouse —— 鼠标手势
+2. EditThisCookie —— 编辑 Cookie
+3. Git History Browser Extension —— Github 的历史浏览
+4. Octoree —— Github 代码树状查看
+5. Video Speed Controller —— 视频播放速度调整
+6. Vimium —— Vim 操作模拟
+7. FeHelper —— Web 前端助手
+8. FireShot —— 捕捉网页截图
+9.  暴力猴 —— 猴油脚本管理工具
+10. 沙拉查词 —— 划词查询工具
+11. EditThisCookie
+12. Dmooji弹幕君—— YouTube弹幕助手
+13. Markdown Here —— 用Markdown写一封漂亮的电子邮件
+14. Momentum —— 漂亮的Tab页
+15. Proxy SwitchyOmega —— 切换代理
+16. RSSHub Radar —— RSSHub插件
+17. UBlock Origin —— 网页广告过滤插件
+18. 琼斯医生 —— 中文排版格式化工具
 
 ## 书籍
 
@@ -121,7 +128,7 @@
 5. 普林斯顿微积分
 6. 高等微积分 —— 台湾大学齐震宇的微积分公开课
 
-#### 科技其他
+### 科技其他
 
 1. 世界是数字的
 2. 数学之美
@@ -131,6 +138,7 @@
 6. 黑客与画家
 7. 技术之瞳
 8. 硝烟中的 XP 和 SCRUM
+9. 上帝掷骰子吗？：量子物理史话
 
 ### 小说
 

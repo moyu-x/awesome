@@ -38,6 +38,7 @@
 30. [Qdir](http://www.softwareok.com/?Download=Q-Dir)——Windows 上的多窗口文件管理器
 31. [MarkText](https://github.com/marktext/marktext)—— Markdown 文件编辑工具，和 Typora 有一拼
 32. [Mounty](https://mounty.app/) —— 在`Mac`上挂载`NTFS`硬盘
+33. [手心输入法](http://www.xinshuru.com/) —— 一个简洁无广告的输入法
 
 ## Chrome 插件
 
